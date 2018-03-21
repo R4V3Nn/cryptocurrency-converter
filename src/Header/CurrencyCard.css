@@ -1,0 +1,7 @@
+.currency-card {
+    width: 130px;
+    height: 86px;
+    border: solid #eee;
+    background: white;
+    box-shadow: 0 2px 3px #ccc;
+}

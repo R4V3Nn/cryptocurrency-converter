@@ -1,0 +1,13 @@
+.header {
+    margin-bottom: 80px;
+}
+
+.header-select {
+    width: 300px;
+    margin: 20px 0;
+}
+
+.currency-cards {
+    display: flex;
+    justify-content: space-between;
+}
